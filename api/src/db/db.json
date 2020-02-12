@@ -8,71 +8,60 @@
       "id": "1",
       "createdAt": "4321",
       "name": "Jack",
-      "type": "cat",
+      "type": "CAT",
       "user": "jBWMVGjm50l6LGwepDoty"
     },
     {
       "id": "2",
       "createdAt": "4653",
       "name": "Bob",
-      "type": "cat",
+      "type": "CAT",
       "user": "jBWMVGjm50l6LGwepDoty"
     },
     {
       "id": "3",
       "createdAt": "52343",
       "name": "Bill",
-      "type": "cat",
+      "type": "CAT",
       "user": "jBWMVGjm50l6LGwepDoty"
     },
     {
       "id": "4",
       "createdAt": "34323",
       "name": "Charlie",
-      "type": "dog",
+      "type": "DOG",
       "user": "jBWMVGjm50l6LGwepDoty"
     },
     {
       "id": "xnBzaBrDDymPwzfzqFDMs",
       "createdAt": 1581436185978,
       "name": "bear",
-      "type": "dog",
+      "type": "DOG",
       "user": "jBWMVGjm50l6LGwepDoty"
     },
     {
-      "id": "ZybwZTRmx-5H_VcRBy9uK",
-      "createdAt": 1581436188270,
-      "name": "bear",
-      "type": "dog",
-      "user": "jBWMVGjm50l6LGwepDoty"
+      "id": "EUNqgYMDelftVSOkaWjdQ",
+      "createdAt": 1581537080412,
+      "name": "dd",
+      "type": "CAT"
     },
     {
-      "id": "ZSqX02MH6gYjQUhxLP0-w",
-      "createdAt": 1581436188866,
-      "name": "bear",
-      "type": "dog",
-      "user": "jBWMVGjm50l6LGwepDoty"
+      "id": "PXwuS3VStNW9Si3CnYEr4",
+      "createdAt": 1581537085136,
+      "name": "fdsfdsfds",
+      "type": "CAT"
     },
     {
-      "id": "GBKNOCeT4_R75ht_QB938",
-      "createdAt": 1581436189021,
-      "name": "bear",
-      "type": "dog",
-      "user": "jBWMVGjm50l6LGwepDoty"
+      "id": "cUKis2iyDzRpUDe-0V6QL",
+      "createdAt": 1581537089468,
+      "name": "fdsfds",
+      "type": "DOG"
     },
     {
-      "id": "1mffMfs-HeJE7c4oBSpdZ",
-      "createdAt": 1581436189176,
-      "name": "bear",
-      "type": "dog",
-      "user": "jBWMVGjm50l6LGwepDoty"
-    },
-    {
-      "id": "AQJ2mEy4AHYG3lorMxyzl",
-      "createdAt": 1581436223662,
-      "name": "bear",
-      "type": "dog",
-      "user": "jBWMVGjm50l6LGwepDoty"
+      "id": "HOVXSLOEGhicnwX0uqFQC",
+      "createdAt": 1581540534382,
+      "name": "d",
+      "type": "DOG"
     }
   ]
 }
